@@ -1,0 +1,14 @@
+.activ{
+  background: white;
+  color: black;
+  padding: 8px 12px;
+  border-radius:0 0 25px 25px;
+  box-shadow: 0 -1px 15px silver;
+  text-decoration: none;
+}
+
+.main{
+  min-height: 85vh;
+  padding: 25px;
+  background-color: #f6f6f6;
+}
